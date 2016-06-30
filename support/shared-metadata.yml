@@ -1,0 +1,12 @@
+---
+date: \today{}
+figPrefix:
+  - "Figure"
+  - "Figures"
+secPrefix:
+  - "Section"
+  - "Sections"
+tblPrefix:
+  - "Table"
+  - "Tables"
+---
